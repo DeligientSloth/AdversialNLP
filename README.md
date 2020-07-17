@@ -2,8 +2,7 @@
 
 ### FGM
 
-NLP的对抗训练，这里实现的是对embedding的attack，没有生成新数据；方法一般有FGM和PGD两种，我这里实现的是FGM，PGD也很好改，
-介绍见https://zhuanlan.zhihu.com/p/91269728，基于tensorflow estimator BERT实现
+NLP的对抗训练，这里实现的是对embedding的attack，没有生成新数据；方法一般有FGM和PGD两种，我这里实现的是FGM，PGD也很好改，基于tensorflow estimator BERT实现。介绍见https://zhuanlan.zhihu.com/p/91269728，
 
 ### 实现思路
 
